@@ -1,0 +1,13 @@
+build/
+build-tests/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.dmp
+*.log
+Thumbs.db
+.DS_Store
+.desloppify/
