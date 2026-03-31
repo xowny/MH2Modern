@@ -4,7 +4,7 @@ A modern compatibility and quality-of-life patch for the PC version of Manhunt 2
 
 MH2Modern focuses on old technical behavior that does not age well on modern Windows: mouse input, fullscreen handling, frame pacing, audio compatibility, and a few system-level habits the game should not still have.
 
-It is not a gameplay overhaul, not a content mod, and not a widescreen patch. The goal is to make the original PC release behave better without changing what the game is.
+Nexus Mods: https://www.nexusmods.com/manhunt2/mods/52
 
 ## Compatibility And Safety
 
