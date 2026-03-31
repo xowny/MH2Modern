@@ -8,7 +8,7 @@ Nexus Mods: https://www.nexusmods.com/manhunt2/mods/52
 
 ## Compatibility And Safety
 
-**Primary target:** the PC Steam release of Manhunt 2  
+**Primary target:** PC release of Manhunt 2  
 **Loader:** requires an ASI loader setup  
 **Network traffic:** none  
 **Telemetry:** none  
