@@ -1,5 +1,8 @@
 # MH2Modern
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 A modern compatibility and quality-of-life patch for the PC version of Manhunt 2.
 
 MH2Modern focuses on old technical behavior that does not age well on modern Windows: mouse input, fullscreen handling, frame pacing, audio compatibility, and a few system-level habits the game should not still have.
@@ -123,6 +126,4 @@ MH2Modern is meant to coexist with mods that solve different problems, such as c
 
 This project is focused on modernizing fragile old PC behavior inside the original executable path. It is not trying to redesign the game.
 
-## License
-
-A license file is not included yet.
+## License`r`n`r`nReleased under the MIT License. See [LICENSE](LICENSE).
