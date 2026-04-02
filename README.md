@@ -126,4 +126,6 @@ MH2Modern is meant to coexist with mods that solve different problems, such as c
 
 This project is focused on modernizing fragile old PC behavior inside the original executable path. It is not trying to redesign the game.
 
-## License`r`n`r`nReleased under the MIT License. See [LICENSE](LICENSE).
+## License
+
+Released under the MIT License. See [LICENSE](LICENSE).
