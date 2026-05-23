@@ -9,19 +9,6 @@ MH2Modern focuses on old technical behavior that does not age well on modern Win
 
 Nexus Mods: https://www.nexusmods.com/manhunt2/mods/52
 
-## Compatibility And Safety
-
-**Primary target:** PC release of Manhunt 2  
-**Loader:** requires an ASI loader setup  
-**Network traffic:** none  
-**Telemetry:** none  
-**Permanent OS changes:** none  
-**Admin rights:** not required to run the mod, but Windows may require elevated permissions to copy files into `Program Files`  
-**Files used by the mod:** `MH2Modern.asi`, `MH2Modern.ini`, and optional log or dump files if you enable diagnostics  
-
-You can disable the mod instantly by removing `MH2Modern.asi` from the game folder.  
-You can fully uninstall it by removing both `MH2Modern.asi` and `MH2Modern.ini`.
-
 ## What MH2Modern Does
 
 - Adds raw mouse input for the DirectInput mouse path.
@@ -43,11 +30,10 @@ You can fully uninstall it by removing both `MH2Modern.asi` and `MH2Modern.ini`.
 4. Leave the default settings on unless you are troubleshooting.
 
 The included INI is already organized around recommended defaults.  
-All logging and debug options are grouped at the end of the file and are off by default.
 
 ## Configuration
 
-`MH2Modern.ini` is organized into normal user-facing sections:
+`MH2Modern.ini` is organized into sections:
 
 - Stability And Compatibility
 - Graphics
