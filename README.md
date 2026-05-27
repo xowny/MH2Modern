@@ -7,9 +7,11 @@ A modern compatibility and quality-of-life patch for the PC version of Manhunt 2
 
 MH2Modern focuses on old technical behavior that does not age well on modern Windows: mouse input, fullscreen handling, frame pacing, audio compatibility, and a few system-level habits the game should not still have.
 
+![image alt](https://github.com/xowny/MH2Modern/blob/main/6Ld8yt4.png?raw=true)
+
 Nexus Mods: https://www.nexusmods.com/manhunt2/mods/52
 
-## What MH2Modern Does
+## Features
 
 - Adds raw mouse input for the DirectInput mouse path.
 - Improves frame pacing with a steadier 60 FPS limiter path.
@@ -105,12 +107,6 @@ Expected output:
 - `MH2Modern.ini` — user-facing configuration
 - `build.bat` — x86 release build script
 - `test.bat` — test build and test runner
-
-## Scope
-
-MH2Modern is meant to coexist with mods that solve different problems, such as controller-specific or widescreen-specific work.
-
-This project is focused on modernizing fragile old PC behavior inside the original executable path. It is not trying to redesign the game.
 
 ## License
 
