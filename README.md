@@ -1,6 +1,6 @@
 # MH2Modern
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 
 A modern compatibility and quality-of-life patch for the PC version of Manhunt 2.
