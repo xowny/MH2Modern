@@ -11,26 +11,6 @@ MH2Modern focuses on old technical behavior that does not age well on modern Win
 
 Nexus Mods: https://www.nexusmods.com/manhunt2/mods/52
 
-## Features
-
-- Adds raw mouse input for the DirectInput mouse path.
-- Improves frame pacing with a steadier 60 FPS limiter path.
-- Applies a lower background frame cap when the game is unfocused.
-- Improves old D3D9 fullscreen presentation behavior.
-- Hardens fragile fullscreen recovery and lost-device handling.
-- Fixes cursor clip behavior when alt-tabbing.
-- Stops the game from changing Windows mouse and accessibility settings.
-- Applies FMOD compatibility fixes for modern systems.
-- Removes proven redundant frontend audio setter spam.
-- Can write a crash dump after a hard crash for easier troubleshooting.
-
-## Installation
-
-1. Make sure your game has a working ASI loader.
-2. Copy `MH2Modern.asi` and `MH2Modern.ini` into your Manhunt 2 game folder.
-3. Launch the game.
-4. Leave the default settings on unless you are troubleshooting.
-
 The included INI is already organized around recommended defaults.  
 
 ## Configuration
